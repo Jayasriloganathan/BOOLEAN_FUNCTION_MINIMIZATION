@@ -53,13 +53,10 @@ RegisterNumber:24900407
 
 **RTL realization**
 
-![Screenshot 2024-12-10 122101](https://github.com/user-attachments/assets/5f6483f1-ab6d-4ce5-9e4c-f372ed706356)
-
-**Output:**
-
-**RTL**
+![Screenshot 2024-12-10 122101](https://github.com/user-attachments/assets/5f6483f1-ab6d-4ce5-9e4c-f372ed70635
 
 **Timing Diagram**
+
 ![Screenshot 2024-12-10 122124](https://github.com/user-attachments/assets/911516d5-91e2-4a4c-b93d-94ccb19bc7aa)
 
 **Result:**
